@@ -1,0 +1,13 @@
+th, td {
+    border: 1px solid;
+    color: aliceblue; 
+}
+.cabecalho-moda {
+    background-color: #bb86fc;
+}
+.cabecalho-casa {
+    background-color: #00c4b4;
+}
+tr {
+    background-color: #424250;
+}
